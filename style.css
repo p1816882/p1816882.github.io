@@ -1,0 +1,198 @@
+
+/* this is for..... */
+*{box-sizing: border-box;}
+
+header {
+  font-family: 'Khand', sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+body{
+  min-width: 1280px
+}
+
+.topnav {
+  background: black;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.topnav .searchContainer input {
+  margin:20px 0 0px 0;
+}
+
+.topnav .searchContainer {
+  float:right;
+  margin-right: 10px;
+}
+
+.topnav a {
+  color: white;
+  display: inline-block;
+  padding: 20px;
+  text-decoration: none;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+.topnav a:hover {
+  background: red;
+}
+
+img {
+  width:100%;
+  height: auto;
+}
+
+.adc {
+  text-align:center;
+  font-size: 30px;
+}
+
+.social {
+  float: center;
+}
+
+.info {
+  float: right;
+}
+
+.bcd {
+	max-width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  padding: 20px;
+  color: black;
+}
+
+.social a { 
+  color: black;
+  font-size: 20px;
+}
+
+section {
+  height: auto;
+  clear: both;
+}
+
+.column {
+  min-height: 100px;
+  border: 1px solid black;
+  float: left;
+  background: white;
+}
+
+.col2 {
+  width: 50%;
+}
+
+.col4 {
+  width: 20%;
+  text-align: center;
+  margin: 0 5% 0 5% ;
+  height: 50vh;
+  border:0;
+}
+
+.col43 {
+  width: 65%;
+  margin-right: 5%;
+  height: 60vh;
+  overflow-y: auto;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li{
+  font-size: 22px;
+  margin: 15px;
+}
+
+.imgcontainer img{
+  margin-bottom: :10px;
+  width: 100%;
+  height: 100%;
+}
+
+.imgcontainer{
+  overflow: hidden;
+}
+
+footer{
+  margin-top: 20px;
+}
+
+.row{
+  height: 60vh;
+  margin-top: 20px
+}
+
+input{
+  width: 60%;
+  margin: 10px;
+  height: 30px;
+}
+
+p{
+  font-size: 20px;
+  margin: 0;
+}
+
+form{
+  margin: 30px;
+}
+
+h2{
+  margin: 20px;
+}
+
+.fgh{
+  width: 40vw;
+  height: 40vh;
+  float: left;
+  margin-top: 60px;
+}
+
+.col32{
+  float:right;
+  padding: 10px;
+  border: 0px;
+}
+
+.aboutcontainer{
+  display: block;
+  margin: 20px;
+}
+
+.col3 {
+  width: 40vw;
+  padding: 10px 10px 10px 10px;
+  border: 0px;
+}
+
+.col3 h1{
+  margin: 0 0 10px 0;
+}
+
+.feedbackforum {
+  width: 40vw;
+  padding: 10px 10px 10px 10px;
+  margin-left: 10px;
+  border: 0px;
+}
+
+.col3 p{
+  font-size: 10px;
+}
+
+.col3 p
